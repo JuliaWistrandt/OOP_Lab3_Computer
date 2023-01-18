@@ -1,0 +1,15 @@
+C:\Users\Валерия\source\repos\Computer\bin\Debug\net6.0\Computer.exe
+C:\Users\Валерия\source\repos\Computer\bin\Debug\net6.0\Computer.deps.json
+C:\Users\Валерия\source\repos\Computer\bin\Debug\net6.0\Computer.runtimeconfig.json
+C:\Users\Валерия\source\repos\Computer\bin\Debug\net6.0\Computer.dll
+C:\Users\Валерия\source\repos\Computer\bin\Debug\net6.0\Computer.pdb
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.csproj.AssemblyReference.cache
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.AssemblyInfoInputs.cache
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.AssemblyInfo.cs
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.dll
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\refint\Computer.dll
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.pdb
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\Computer.genruntimeconfig.cache
+C:\Users\Валерия\source\repos\Computer\obj\Debug\net6.0\ref\Computer.dll
